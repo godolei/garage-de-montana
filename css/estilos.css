@@ -4,8 +4,13 @@ body {
   color: #222;
 }
 
-h1, h2, h3, h4, h5 {
-  color: #e5e6f0;
+h1, ¨{
+  color: #001be7;
+  font-weight: bold;
+}
+
+h2, h3, h4, h5 {
+  color: #0018d1;
   font-weight: bold;
 }
 
@@ -204,6 +209,12 @@ form input:focus, form select:focus, form textarea:focus {
 form button {
   font-weight: bold;
   letter-spacing: 1px;
+}
+
+/* Nueva clase para el título del encabezado */
+.header-title {
+  text-align: center;
+  font-size: 125%;
 }
 
 /* Responsive */
