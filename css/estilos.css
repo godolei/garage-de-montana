@@ -15,7 +15,7 @@ h2, h3, h4, h5 {
 }
 
 header {
-  background-color: #1a237e;
+  background-color: #02095c;
   color: #ffffff;
   padding: 20px 0;
   text-align: center;
@@ -111,7 +111,7 @@ footer.footer {
 
 .hero {
   min-height: 60vh;
-  background: url('assets/img/taller-malalcahuello.jpg') center/cover no-repeat;
+  background: url('img/1.jpg') center/cover no-repeat;
   position: relative;
   color: #fff;
 }
